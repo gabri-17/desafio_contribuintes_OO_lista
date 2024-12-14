@@ -14,7 +14,7 @@ public class Program_metodo_estatico {
 		
 		// Membro estático vai dar o mesmo resultado independente de qualquer objeto.
 		
-		// Membros da classe não são estáticos, é obrigado a instanciar um objeto
+		// Membros da classe não são estáticos, é obrigado a instanciar um objeto.
 		//Calculator calc = new Calculator();
 		
 		System.out.print("Enter radius: ");
